@@ -109,7 +109,7 @@ Note that we generally do not accept PRs that bump versions of native dependenci
 
 All modules should adhere to the style guides which can be found here:
 
-- [Creating Unimodules](guides/Creating%20Unimodules.md)
+- [Expo Module Infrastructure](guides/Expo%20Module%20Infrastructure.md)
 - [Expo JS Style Guide](guides/Expo%20JavaScript%20Style%20Guide.md) (also mostly applies to TypeScript)
 - [Updating Changelogs](guides/contributing/Updating%20Changelogs.md)
 
